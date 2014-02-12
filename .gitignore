@@ -1,0 +1,22 @@
+## generic files to ignore
+*~
+*.DS_Store
+*.swp
+*.out
+
+## ide files to ignore
+nbproject/
+.idea/
+*.tmproj
+*.sublime-workspace
+*.sublime-project
+sftp-config.json
+.buildpath
+.project
+org.eclipse*
+
+## other files to ignore
+.vagrant
+composer.phar
+vendor
+node_modules
